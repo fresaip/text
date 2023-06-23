@@ -3,7 +3,7 @@ import sys
 import math
 import tkinter
 from typing import Union, TYPE_CHECKING
-
+=======================================
 if TYPE_CHECKING:
     from .widgets.ctk_canvas import CTkCanvas
 

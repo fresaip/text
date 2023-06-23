@@ -71,6 +71,8 @@ preferred-citation:
     given-names: Quentin
   - family-names: Rush
     given-names: "Alexander M."
+  - family-names: Opoino
+    given-names: Desony
   booktitle: "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing: System Demonstrations"
   month: 10
   start: 38

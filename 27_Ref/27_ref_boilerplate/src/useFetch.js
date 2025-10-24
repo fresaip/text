@@ -19,3 +19,15 @@ export const useFetch = (url) => {
 }
 
 export default useFetch
+#ifdef _WIN32
+int WINAPI WinMain(
+    HINSTANCE hInstance,
+    HINSTANCE hPrevInstance,
+    LPSTR lpCmdLine,
+    int nCmdShow)
+#else
+int main(void)
+#endif
+{
+    return cxg_main();
+}
